@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: bitcoin
+  icon: r-project
   icon_pack: fab
   name: R
 - description: 100%
